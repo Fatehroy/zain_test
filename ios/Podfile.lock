@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - rhttp (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - rhttp (from `.symlinks/plugins/rhttp/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  rhttp:
+    :path: ".symlinks/plugins/rhttp/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  rhttp: 367a8162e63311c6dde543169b591cc04454dcd6
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
